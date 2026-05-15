@@ -1,0 +1,82 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+!.env.example
+*!.env.docker
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+
+# ChromaDB / vector DB
+chroma/
+chromadb/
+data/chroma/
+
+uploads/
+storage/
+indexed_data/
+
+# Ollama / model cache (optional)
+models/
+cache/
+
+# SQLite
+*.db
+*.sqlite3
+
+
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+frontend/.env
+frontend/.env.*
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+
+tmp/
+temp/
+*.tmp

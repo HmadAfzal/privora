@@ -1,0 +1,58 @@
+fastapi==0.136.1
+uvicorn==0.46.0
+uvloop==0.22.1
+python-dotenv==1.2.2
+pydantic==2.13.4
+pydantic-settings==2.14.1
+
+# GitHub
+PyGithub==2.9.1
+
+# LlamaIndex
+llama-index==0.14.21
+llama-index-core==0.14.21
+llama-index-embeddings-huggingface==0.7.0
+llama-index-llms-ollama==0.10.1
+llama-index-vector-stores-chroma==0.5.5
+llama-index-instrumentation==0.5.0
+
+# Embeddings
+sentence-transformers==5.4.1
+transformers==5.8.0
+tokenizers==0.22.2
+huggingface_hub==1.14.0
+
+# Vector DB
+chromadb==1.5.9
+
+# Ollama
+ollama==0.6.2
+
+# Tree sitter for code splitting
+tree-sitter==0.25.2
+tree-sitter-language-pack==1.8.0
+
+# ML — GPU build
+torch==2.11.0
+scikit-learn==1.8.0
+numpy==2.4.4
+
+# CUDA
+nvidia-cublas==13.1.0.3
+nvidia-cuda-cupti==13.0.85
+nvidia-cuda-nvrtc==13.0.88
+nvidia-cuda-runtime==13.0.96
+nvidia-cudnn-cu13==9.19.0.56
+nvidia-cufft==12.0.0.61
+nvidia-curand==10.4.0.35
+nvidia-cusolver==12.0.4.66
+nvidia-cusparse==12.6.3.3
+nvidia-nvjitlink==13.0.88
+nvidia-nvtx==13.0.85
+triton==3.6.0
+
+# Misc
+httpx==0.28.1
+aiohttp==3.13.5
+nltk==3.9.4
+tiktoken==0.12.0

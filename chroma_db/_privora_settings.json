@@ -1,0 +1,5 @@
+{
+  "ollama_model": "qwen2:0.5b",
+  "min_score": 0.2,
+  "similarity_top_k": 6
+}

@@ -1,0 +1,44 @@
+fastapi==0.136.1
+uvicorn==0.46.0
+uvloop==0.22.1
+python-dotenv==1.2.2
+pydantic==2.13.4
+pydantic-settings==2.14.1
+
+# GitHub
+PyGithub==2.9.1
+
+# LlamaIndex
+llama-index==0.14.21
+llama-index-core==0.14.21
+llama-index-embeddings-huggingface==0.7.0
+llama-index-llms-ollama==0.10.1
+llama-index-vector-stores-chroma==0.5.5
+llama-index-instrumentation==0.5.0
+
+# Embeddings
+sentence-transformers==5.4.1
+transformers==5.8.0
+tokenizers==0.22.2
+huggingface_hub==1.14.0
+
+# Vector DB
+chromadb==1.5.9
+
+# Ollama
+ollama==0.6.2
+
+# Tree sitter for code splitting
+tree-sitter==0.25.2
+tree-sitter-language-pack==1.8.0
+
+# ML
+torch==2.11.0+cpu
+scikit-learn==1.8.0
+numpy==2.4.4
+
+# Misc
+httpx==0.28.1
+aiohttp==3.13.5
+nltk==3.9.4
+tiktoken==0.12.0
