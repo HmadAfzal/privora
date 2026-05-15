@@ -5,10 +5,9 @@
 # Privora
 
 **Private, self-hosted AI knowledge base for your codebase.**
+Point Privora at your GitHub repositories, ask questions in plain English, and get answers with exact source citations, all running locally on your own machine. Your code never leaves your server.
 
 </div>
-
-Point Privora at your GitHub repositories, ask questions in plain English, and get answers with exact source citations, all running locally on your own machine. Your code never leaves your server.
 
 [![Demo Video](https://cdn.loom.com/sessions/thumbnails/YOUR_LOOM_ID-with-play.gif)](https://www.loom.com/share/YOUR_LOOM_ID)
 
