@@ -1,15 +1,12 @@
+<div align="center">
+
+<img src="/assets/logo.png" width="120"/>
+
 # Privora
 
-<p align="center">
-  <svg width="64" height="64" viewBox="-42 -50 84 100" xmlns="http://www.w3.org/2000/svg">
-    <polygon points="0,-48 41.6,-24 41.6,14 0,48 -41.6,14 -41.6,-24" fill="#AAFF00"/>
-    <polygon points="0,-31 26.8,-15.5 26.8,8.5 0,31 -26.8,8.5 -26.8,-15.5" fill="#0c0c0c"/>
-    <polygon points="0,-14 12.1,-7 12.1,4 0,14 -12.1,4 -12.1,-7" fill="#AAFF00"/>
-  </svg>
-</p>
-<p align="center">
-  <strong>Private, self-hosted AI knowledge base for your codebase.</strong>
-</p>
+**Private, self-hosted AI knowledge base for your codebase.**
+
+</div>
 
 Point Privora at your GitHub repositories, ask questions in plain English, and get answers with exact source citations, all running locally on your own machine. Your code never leaves your server.
 
