@@ -5,7 +5,8 @@
 # Privora
 
 **Private, self-hosted AI knowledge base for your codebase.**
-<br/>
+<br/><br/>
+
 Point Privora at your GitHub repositories, ask questions in plain English, and get answers with exact source citations, all running locally on your own machine. Your code never leaves your server.
 
 </div>
