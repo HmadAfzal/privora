@@ -11,8 +11,7 @@ Point Privora at your GitHub repositories, ask questions in plain English, and g
 
 </div>
 
-[![Demo Video](https://cdn.loom.com/sessions/thumbnails/YOUR_LOOM_ID-with-play.gif)](https://www.loom.com/share/YOUR_LOOM_ID)
-
+[![Privora Demo](./assets/demo-thumbnail.png)](https://youtu.be/84g3w-kucl0)
 ---
 
 ## Why Privora
