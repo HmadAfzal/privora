@@ -23,6 +23,7 @@ Most AI tools that understand your codebase send your code to the cloud. Privora
 
 ---
 <img src="/assets/chat.png"/>
+
 ---
 
 ## How It Works
