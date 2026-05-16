@@ -10,8 +10,6 @@
 Point Privora at your GitHub repositories, ask questions in plain English, and get answers with exact source citations, all running locally on your own machine. Your code never leaves your server.
 
 </div>
-
-[![Privora Demo](./assets/demo-thumbnail.png)](https://youtu.be/84g3w-kucl0)
 ---
 
 ## Why Privora
@@ -23,8 +21,8 @@ Most AI tools that understand your codebase send your code to the cloud. Privora
 - **Streaming answers** — responses stream word by word with source citations
 - **No vendor lock-in** — swap models via settings, no code changes needed
 
+---
 <img src="/assets/chat.png"/>
-
 ---
 
 ## How It Works
@@ -186,7 +184,7 @@ Access settings via the gear icon at the bottom of the sidebar.
 
 Changes take effect immediately on the next query. No restart needed.
 
-<img src="/assets/settings.png" width="120"/>
+<img src="/assets/settings.png"/>
 
 ### Data Management
 
