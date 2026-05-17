@@ -278,3 +278,15 @@ tinyllama      # ~600MB RAM
 ```
 
 ---
+
+## Contributing
+
+Contributions are welcome. Open an issue or submit a pull request on [GitHub](https://github.com/HmadAfzal/privora).
+
+---
+
+<div align="center">
+
+[Gnix](https://www.privora.tech/) · Built by [Hmad Afzal](https://github.com/HmadAfzal) · [hmadafzal00@gmail.com](mailto:hmadafzal00@gmail.com)
+
+</div>
