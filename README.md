@@ -9,8 +9,11 @@
 
 Point Privora at your GitHub repositories, ask questions in plain English, and get answers with exact source citations, all running locally on your own machine. Your code never leaves your server.
 
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Ollama](https://img.shields.io/badge/powered%20by-Ollama-orange.svg)](https://ollama.com)
+[![Website](https://img.shields.io/badge/website-privora.tech-blue.svg)](https://www.privora.tech/)
+
 </div>
----
 
 ## Why Privora
 
